@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola, soy Diana Veres 👋
+Soy una administrativa y estudiante de DAW de Valéncia.
+Me gusta aprender cosas nuevas y soy muy exigente.
 
 <!--
 **DianaVeres/DianaVeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
